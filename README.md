@@ -1,2 +1,3 @@
 # AtCoder
-Currently, I am doing AtCoder Beginner Contest
+I am doing AtCoder Beginner Contest
+I will be the one!!
